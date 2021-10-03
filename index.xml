@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Virtualistic Blog</title>
+    <link>https://virtualistic.nl/</link>
+    <description>Recent content on Virtualistic Blog</description>
+    <image>
+      <url>https://virtualistic.nl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://virtualistic.nl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 03 Oct 2021 16:14:18 +0200</lastBuildDate><atom:link href="https://virtualistic.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome Back</title>
+      <link>https://virtualistic.nl/posts/welcome-back/welcome-back/</link>
+      <pubDate>Sun, 03 Oct 2021 16:14:18 +0200</pubDate>
+      
+      <guid>https://virtualistic.nl/posts/welcome-back/welcome-back/</guid>
+      <description>Welcome back,
+Quite some time has passed since I got tired of fighting off hackers from my previous wordpress site. I&amp;rsquo;ve been seeing more and more people move to HUGO to create content and publish it to Github so I decided to give it a shot.
+Will try to figure out how I&amp;rsquo;m going to use this space as we go.
+Everything I write is my own.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://virtualistic.nl/about/</link>
+      <pubDate>Sun, 03 Oct 2021 12:44:01 +0200</pubDate>
+      
+      <guid>https://virtualistic.nl/about/</guid>
+      <description>Oke not much I want to share here</description>
+    </item>
+    
+  </channel>
+</rss>
