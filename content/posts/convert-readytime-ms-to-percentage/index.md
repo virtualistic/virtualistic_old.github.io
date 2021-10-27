@@ -2,9 +2,6 @@
 title: "Script to convert VM readytime from milliseconds to percentage"
 date: 2021-10-27T15:36:59+02:00
 draft: false
-params:
-    cover:
-        linkFullImages: true
 hideReadMore: true
 comments: false
 tags:
@@ -24,8 +21,7 @@ Thought it might be handy to have a quick script that can calculate readytimes p
 ![vCenter Monitor Readytime in ms](img/vcenter-readytime-ms-00.png)
 <small>_screenshot of vcenter monitoring readytime in milliseconds_</small>
 
-created another image  
 ![script in action](img/vcenter-readytime-ms-script.png)
 <small>_script in action_</small>
 
-Script can be found [here](https://gist.github.com/virtualistic/bc9118e3d142718fb5e48f3cf9c4f3aa)
+The script can be found [here](https://gist.github.com/virtualistic/bc9118e3d142718fb5e48f3cf9c4f3aa)
