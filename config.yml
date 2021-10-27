@@ -71,7 +71,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hi there \U0001F44B"
-        Content: Welcome to my tiny outpost on the outskirts of the internet where I occasionally write down some thoughts
+        Content: Welcome to my tiny outpost on the internet where I occasionally write down some thoughts
 
     socialIcons:
         - name: twitter
