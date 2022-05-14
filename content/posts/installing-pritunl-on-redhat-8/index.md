@@ -22,8 +22,8 @@ Pritunl is a distributed OpenVPN, IPsec and WireGuard Server that I've been usin
 - accessing my lab when working remote
 - tunneling my webtraffic whenever I'm forced to use a unknown wifi network
 
-My older pritunl server was still running on a older version of CentOS so it was time for a rebuild.  
-For the new build I chose to use one my free RedHat licenses you can get [here](https://developers.redhat.com/articles/faqs-no-cost-red-hat-enterprise-linux#)  
+My  Pritunl server was still running on a older version of CentOS so it was time for a rebuild.
+For the new build I chose to use one of my free RedHat licenses you can get [here](https://developers.redhat.com/articles/faqs-no-cost-red-hat-enterprise-linux#)
 This post will cover the installation not the configuration of Pritunl since it's so simple to set up once you get it installed.
 
 ## Installation
@@ -77,7 +77,7 @@ Update the system
 sudo dnf -y update
 ```
 
-Install wireguard if you need it
+Install [wireguard](https://www.wireguard.com/) if you need it
 
 ```bash
 sudo dnf -y install wireguard-tools
@@ -115,18 +115,18 @@ Paste the setup key in the webinterface and continue to the next step, which is 
 sudo pritunl default-password
 ```
 
-Login using those credentials and finish the pritunl setup which consists of the following:  
--Enter a new password for the pritunl user  
--Creating your first VPN user  
--Creating an organization  
--Creating the VPN server  
--Attaching the organization to the VPN server  
--Starting the VPN server  
-Done! 
+Login using those credentials and finish the pritunl setup which consists of the following:
+-Enter a new password for the pritunl user
+-Creating your first VPN user
+-Creating an organization
+-Creating the VPN server
+-Attaching the organization to the VPN server
+-Starting the VPN server
+Done!
 
 ## Bonus I: running the pritunl webinterface on a different port
 
-I've kept selinux active on the box even though multiple threads on the pritunl forum advise people to turn if off.  
+I've kept selinux active on the box even though multiple threads on the pritunl forum advise people to turn if off.
 The Pritunl webinterface runs on port 443 by default. It is possible to change this port but we need some additional tools
 to configure selinux:
 
@@ -217,6 +217,6 @@ sudo systemctl list-timers *dnf-*
 For more info on dnf-automatic, check [here](https://docs.oracle.com/en/operating-systems/oracle-linux/software-management/sfw-mgmt-UpdateSoftwareonOracleLinux.html#update-software) and [here](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/configuring_basic_system_settings/managing-software-packages_configuring-basic-system-settings)
 ## Final Thoughts
 There you have it! Pritunl should be up and running now. The system should also update itself whenever updates are available.
-Another thing I might look at is rebooting the server each week during the night.  
+Another thing I might look at is rebooting the server each week during the night.
 As always, if you have any suggestions feel free to contact me. Until next time!
 
