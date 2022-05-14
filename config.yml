@@ -38,6 +38,7 @@ params:
     hideSummary: false
     showtoc: false
     tocopen: false
+    enableEmoji: true
 
     assets:
         # disableHLJS: true # to disable highlight.js
