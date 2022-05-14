@@ -43,3 +43,4 @@ def array_diff(a, b):
 ```
 
 Which is a very elegant way of saying, give me everything in list a that is not in list b.  
+I read on a topic about writing code that this is mostly how things go. You first focus on solving the problem after which you end up with a version of working but inefficient code.  The next next step should be, to go through the code and refactor anything that improves readability and efficiency.  
