@@ -9,7 +9,7 @@ tags:
     - python
 ---
 
-A solution to an Arraydif challenge on codewars.
+A solution to an Arraydif challenge on codewars (in python).
 
 <!--more-->
 
