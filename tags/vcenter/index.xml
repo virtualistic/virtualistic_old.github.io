@@ -5,7 +5,16 @@
     <link>https://virtualistic.nl/tags/vcenter/</link>
     <description>Recent content in vCenter on Virtualistic Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 27 Oct 2021 15:36:59 +0200</lastBuildDate><atom:link href="https://virtualistic.nl/tags/vcenter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Apr 2023 16:47:34 +0200</lastBuildDate><atom:link href="https://virtualistic.nl/tags/vcenter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to reinstall a Single ESXi Host Running Your vCenter</title>
+      <link>https://virtualistic.nl/posts/how-to-reinstall-single-esxi-host-running-vcenter/</link>
+      <pubDate>Mon, 10 Apr 2023 16:47:34 +0200</pubDate>
+      
+      <guid>https://virtualistic.nl/posts/how-to-reinstall-single-esxi-host-running-vcenter/</guid>
+      <description>&lt;p&gt;Some quick notes on how I reinstalled my homeserver from 6.7 to 7 without losing any VM configuration&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Script to convert VM readytime from milliseconds to percentage</title>
       <link>https://virtualistic.nl/posts/convert-readytime-ms-to-percentage/</link>

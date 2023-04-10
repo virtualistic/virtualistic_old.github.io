@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://virtualistic.nl/tags/esxi-7/</loc>
+    <lastmod>2023-04-10T16:47:34+02:00</lastmod>
+  </url><url>
+    <loc>https://virtualistic.nl/posts/how-to-reinstall-single-esxi-host-running-vcenter/</loc>
+    <lastmod>2023-04-10T16:47:34+02:00</lastmod>
+  </url><url>
+    <loc>https://virtualistic.nl/posts/</loc>
+    <lastmod>2023-04-10T16:47:34+02:00</lastmod>
+  </url><url>
+    <loc>https://virtualistic.nl/tags/reinstall/</loc>
+    <lastmod>2023-04-10T16:47:34+02:00</lastmod>
+  </url><url>
+    <loc>https://virtualistic.nl/tags/</loc>
+    <lastmod>2023-04-10T16:47:34+02:00</lastmod>
+  </url><url>
+    <loc>https://virtualistic.nl/tags/vcenter/</loc>
+    <lastmod>2023-04-10T16:47:34+02:00</lastmod>
+  </url><url>
+    <loc>https://virtualistic.nl/</loc>
+    <lastmod>2023-04-10T16:47:34+02:00</lastmod>
+  </url><url>
     <loc>https://virtualistic.nl/tags/codewars/</loc>
     <lastmod>2022-05-14T10:20:49+02:00</lastmod>
   </url><url>
     <loc>https://virtualistic.nl/posts/codewars-solution-arraydiff/</loc>
     <lastmod>2022-05-14T10:20:49+02:00</lastmod>
   </url><url>
-    <loc>https://virtualistic.nl/posts/</loc>
-    <lastmod>2022-05-14T10:20:49+02:00</lastmod>
-  </url><url>
     <loc>https://virtualistic.nl/tags/python/</loc>
-    <lastmod>2022-05-14T10:20:49+02:00</lastmod>
-  </url><url>
-    <loc>https://virtualistic.nl/tags/</loc>
-    <lastmod>2022-05-14T10:20:49+02:00</lastmod>
-  </url><url>
-    <loc>https://virtualistic.nl/</loc>
     <lastmod>2022-05-14T10:20:49+02:00</lastmod>
   </url><url>
     <loc>https://virtualistic.nl/tags/homelab/</loc>
@@ -48,9 +60,6 @@
     <lastmod>2021-10-27T15:36:59+02:00</lastmod>
   </url><url>
     <loc>https://virtualistic.nl/posts/convert-readytime-ms-to-percentage/</loc>
-    <lastmod>2021-10-27T15:36:59+02:00</lastmod>
-  </url><url>
-    <loc>https://virtualistic.nl/tags/vcenter/</loc>
     <lastmod>2021-10-27T15:36:59+02:00</lastmod>
   </url><url>
     <loc>https://virtualistic.nl/tags/vmware/</loc>

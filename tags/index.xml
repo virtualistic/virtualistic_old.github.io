@@ -5,7 +5,34 @@
     <link>https://virtualistic.nl/tags/</link>
     <description>Recent content in Tags on Virtualistic Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 14 May 2022 10:20:49 +0200</lastBuildDate><atom:link href="https://virtualistic.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Apr 2023 16:47:34 +0200</lastBuildDate><atom:link href="https://virtualistic.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ESXi 7</title>
+      <link>https://virtualistic.nl/tags/esxi-7/</link>
+      <pubDate>Mon, 10 Apr 2023 16:47:34 +0200</pubDate>
+      
+      <guid>https://virtualistic.nl/tags/esxi-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reinstall</title>
+      <link>https://virtualistic.nl/tags/reinstall/</link>
+      <pubDate>Mon, 10 Apr 2023 16:47:34 +0200</pubDate>
+      
+      <guid>https://virtualistic.nl/tags/reinstall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vCenter</title>
+      <link>https://virtualistic.nl/tags/vcenter/</link>
+      <pubDate>Mon, 10 Apr 2023 16:47:34 +0200</pubDate>
+      
+      <guid>https://virtualistic.nl/tags/vcenter/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>codewars</title>
       <link>https://virtualistic.nl/tags/codewars/</link>
@@ -93,15 +120,6 @@
       <pubDate>Wed, 27 Oct 2021 15:36:59 +0200</pubDate>
       
       <guid>https://virtualistic.nl/tags/readytime/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vCenter</title>
-      <link>https://virtualistic.nl/tags/vcenter/</link>
-      <pubDate>Wed, 27 Oct 2021 15:36:59 +0200</pubDate>
-      
-      <guid>https://virtualistic.nl/tags/vcenter/</guid>
       <description></description>
     </item>
     

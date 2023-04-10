@@ -5,7 +5,16 @@
     <link>https://virtualistic.nl/posts/</link>
     <description>Recent content in Posts on Virtualistic Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 14 May 2022 10:20:49 +0200</lastBuildDate><atom:link href="https://virtualistic.nl/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Apr 2023 16:47:34 +0200</lastBuildDate><atom:link href="https://virtualistic.nl/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to reinstall a Single ESXi Host Running Your vCenter</title>
+      <link>https://virtualistic.nl/posts/how-to-reinstall-single-esxi-host-running-vcenter/</link>
+      <pubDate>Mon, 10 Apr 2023 16:47:34 +0200</pubDate>
+      
+      <guid>https://virtualistic.nl/posts/how-to-reinstall-single-esxi-host-running-vcenter/</guid>
+      <description>&lt;p&gt;Some quick notes on how I reinstalled my homeserver from 6.7 to 7 without losing any VM configuration&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Codewars Solution Arraydiff</title>
       <link>https://virtualistic.nl/posts/codewars-solution-arraydiff/</link>
