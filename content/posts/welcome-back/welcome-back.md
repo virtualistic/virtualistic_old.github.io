@@ -1,7 +1,7 @@
 ---
+layout: post
 title: "Welcome Back"
 date: 2021-10-03T16:14:18+02:00
-draft: false
 ---
 Welcome back,  
 Quite some time has passed since I got tired of fighting off hackers from my previous wordpress site.
